@@ -6,5 +6,6 @@ public class Main {
         System.out.println("My first project in git1");
         System.out.println("Primul meu proiect in Git");
         System.out.println("Un mesaj");
+        System.out.println("Alt mesaj");
     }
 }
